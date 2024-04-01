@@ -16,7 +16,7 @@
 
 두 명이서 각자 서로가 부족한 부분을 가르쳐주며 성장하는 것을 목표로한다.
 
-박시원 : AWS, Terrform, CI/CD
+</br>박시원 : AWS, Terrform, CI/CD<br/>
 조민준 : K8s, CI/CD, AWS, eBPF
 
 Grey Zone : VPC, WebSocket ...
