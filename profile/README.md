@@ -10,3 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+본 스터디의 목적은 AWS, Terrform, K8s, VPC, WebSocket, CI/CD automation, eBPF 등 CS Aplication 계층에 대한 경험 및 숙달을 목적으로 한다.
