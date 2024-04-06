@@ -28,4 +28,5 @@ Grey Zone : VPC, WebSocket ...
 2. K8s 설치(kube Spray)
 
 본 레포에서 허락하는 언어는 Go, Rust뿐이다. (단, 서버컨테이너의 경우 다른 언어 사용 가능)
+또한 Docker 대신 Podman 으로 사용한다.
  
